@@ -1,0 +1,277 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: #282a35;
+    width: 100vw;
+    height: 95vh;
+    border-bottom-right-radius: 0%;
+}
+.navBar{
+    background-color:white;
+    height: 10%;
+    display: flex;
+}
+.left{
+    background-color: white;
+    height: 100%;
+    width: 50%;
+float:left;
+display: flex;
+justify-content:space-between;
+align-items: center;
+
+}
+.right{
+    
+    height: 100%;
+    width: 50%;
+    float: right;
+    list-style: none;
+    justify-content: space-evenly;
+    align-items: center;
+    outline: none;
+    display: flex;
+}
+.img{
+    width: 10%;
+}
+.img>img{
+    float: left;
+    width: 30px;
+    height: 30px;
+}
+.leftContent a{
+    height: 60px;
+   justify-content: space-evenly;
+    float: left;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+.leftContent a select{
+    padding: 20px;
+    text-decoration: none;
+    border: 0px;
+    font-size: 20px;
+}
+.leftContent a:hover{
+background-color: #04AA6D !important;
+
+}
+.leftContent a select:hover{
+    background-color: #04AA6D !important;
+    
+}
+.leftContent {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.monu{
+width: 140px;
+height: 40px;
+outline: 0px;
+border-radius: 25px;
+border: none;
+font-size: 18px;
+
+}
+.sonu{
+   width: 100px;
+   height: 40px;
+   outline: 0px;
+   border-radius: 25px;
+   border: none;
+   font-size: 18px
+ 
+
+   
+}
+#sss{
+   width: 80px;
+   height: 40px;
+   border: none;
+   border-radius:  25px;
+   font-size: 18px;
+   background-color:#cedfd9 ; 
+   position: relative;
+}
+
+   
+
+#sss:hover
+{
+   background-color: #059862!important;
+   cursor: pointer; 
+
+}
+
+
+.monu:nth-child(1){
+   background-color: #9763f6;
+}
+.monu:nth-child(2){
+    background-color: #ffc0c7;
+    
+    }
+.monu:nth-child(3){
+        background-color: #fff4a3;
+       
+        
+        }
+.sonu{
+         background-color: #04aa6d;
+            
+            }
+            .monu:nth-child(5){
+   background-color: white;
+}
+.monu:nth-child(1):hover
+ {
+    background-color:#7d53cc!important;
+    cursor: pointer;
+ } 
+ .monu:nth-child(2):hover
+ {
+    background-color: #ffb3bb!important;
+    cursor: pointer;
+ } 
+ .monu:nth-child(3):hover
+ {
+    background-color: #fff080!important;
+    cursor: pointer;
+ } 
+ .sonu:hover
+ {
+    background-color: #059862!important;
+    cursor: pointer;
+ } 
+ .man{
+    text-align: center;
+    margin-top: 10%;
+    
+   
+ }
+ h1{
+    color: white;
+    font-size: 80px; 
+    
+ }
+ h6{
+    color: #ffb3bb;
+    font-size: 25px;
+    
+ }
+ .hhh{
+   width: 400px;
+   height: 10%;
+   box-sizing: border-box;
+   text-align: center;
+   margin-left: 35%;
+ }
+ .hhh{
+    color: papayawhip;
+    font-size: 25px; 
+   
+ }
+
+ h3:hover
+ {
+   color:#059862!important;
+    cursor: pointer;
+ } 
+    
+
+ .mmm{
+    width: 450px;
+    height: 45px;
+    padding: 5px;
+    border-radius: 0;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    align-items: center;
+    margin-right: 6.5%;
+    color: black;
+    border: none;
+    font-size: 15px;
+
+ }
+ .mmm:nth-child(1):hover
+ {
+    background-color:white;
+    cursor:text;
+ }
+
+ .mmmm{
+   background-color: #04AA6D;
+    width: 105px;
+    height: 45px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+  justify-content: center;
+  align-items: center;
+display: flex;
+margin-left: 63%;
+margin-top: -45px;
+
+ }
+
+ .three{
+    background-color:rgb(193, 199, 197);
+    width: 100vw;
+    height: 98vh;
+    
+
+ }
+ .sona{
+    color: black;
+    margin-left: 17%;
+    
+
+
+ }
+ .silver{
+    color: black;
+    font-size: 20px;
+    margin-left: 15%;
+
+ }
+ .ww{
+    margin-left: 18%;
+    width: 15%;
+ }
+
+ 
+ .four{
+    width: 550px;
+    height: 400px;
+    background-color: white;
+    float: right;
+    margin-right: 50px;
+    margin-top: 9%;
+ }
+ .five{
+    width: 550px;
+    height: 70px;
+    background-color:rgb(81, 99, 93) ;
+    font-size: 25px;
+    padding-top: 25px;
+   
+ }
+ .six{
+    width: 550px;
+    height: 70px;
+    background-color:rgb(81, 99, 93) ;
+    margin-top: 50%;
+
+ }
+ #kumar{
+   width: 35%;
+   margin-top: 15px;
+   margin-left: 15px;
+
+ }
